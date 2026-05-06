@@ -1,26 +1,4 @@
 # GREENLIFE
-## Plataforma Web de Sustentabilidade
-### Relatório Técnico do Projeto
-
-**Repositório:** [https://github.com/raonizfr-ops/Greenfile](https://github.com/raonizfr-ops/Greenfile)  
-**Disciplina:** Test-Driven Development (TDD)  
-**Versão do documento:** 1.1 — Maio de 2026
-
----
-
-## Sumário
-1. [Apresentação do Projeto](#1-apresentação-do-projeto)
-2. [Objetivos](#2-objetivos)
-3. [Escopo](#3-escopo)
-4. [Arquitetura](#4-arquitetura)
-5. [Requisitos Funcionais (RF)](#5-requisitos-funcionais-rf)
-6. [Requisitos Não Funcionais (RNF)](#6-requisitos-não-funcionais-rnf)
-7. [Casos de Uso](#7-casos-de-uso)
-8. [Modelo de Dados](#8-modelo-de-dados)
-9. [Plano de Testes](#9-plano-de-testes)
-10. [Como Executar os Testes](#10-como-executar-os-testes)
-11. [Resultados Obtidos](#11-resultados-obtidos)
-12. [Considerações Finais e Trabalhos Futuros](#12-considerações-finais-e-trabalhos-futuros)
 
 ---
 
